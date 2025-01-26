@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dieno\\Documents\\Hra ukol\\TEST\\HorrorGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|c:\\users\\dieno\\documents\\hra ukol\\test\\horrorgame\\assets\\scripts\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE22B22B-B6C4-CFA4-9A50-7E75D4A8DE4B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonsterAI.cs",
+              "DocumentMoniker": "C:\\Users\\dieno\\Documents\\Hra ukol\\TEST\\HorrorGame\\Assets\\Scripts\\MonsterAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MonsterAI.cs",
+              "ToolTip": "C:\\Users\\dieno\\Documents\\Hra ukol\\TEST\\HorrorGame\\Assets\\Scripts\\MonsterAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MonsterAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T17:31:19.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
